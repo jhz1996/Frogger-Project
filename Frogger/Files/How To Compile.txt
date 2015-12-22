@@ -1,0 +1,5 @@
+- The program should be able to compile on any windows x32 machine with visual studio. 
+- Modifications to the linker and include libraries are no longer necessary, as the libs are now defined via relative path.
+
+- To run the game, edit the batch file to point to the resources folder. 
+- The game will notify the user if something is missing.

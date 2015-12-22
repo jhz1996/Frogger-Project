@@ -1,0 +1,1 @@
+"Files/Frog1/Debug/Frog1.exe" "Files/resources"
